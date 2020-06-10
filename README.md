@@ -2,9 +2,11 @@
 
 > We're a building a sorting algorithm 
 
-![screenshot]()
+Use Ruby to create a sorting algorithm. Checkout sorting algorithm explanation: https://www.geeksforgeeks.org/bubble-sort/
 
-Use Ruby to create a sorting algorithm.
+## Project specifications
+
+Implement a sorting bubble method that calls in a block with two consecutive variables on an array and gives the parameter to sort from lower to higher values.
 
 ## Built With
 
